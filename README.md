@@ -1,5 +1,6 @@
 # Masterclass-JavaScript-Developer
 
+https://cll-devrel.gitbook.io/javascript-for-blockchain-master-class/decentralized-news-service-contract
 
 # FUNCTION
 subscriptionId on Sepolia: 3691
