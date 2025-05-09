@@ -2,6 +2,8 @@
 
 https://cll-devrel.gitbook.io/javascript-for-blockchain-master-class/decentralized-news-service-contract
 
+https://go.chain.link/masterclasses/javascript-web3
+
 # FUNCTION
 subscriptionId on Sepolia: 3691
 
